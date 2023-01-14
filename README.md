@@ -1,4 +1,4 @@
-### Happy Customer
+# Happy Customer
 ## Introduction
 One of the fastest growing start-ups in the logistics and delivery domain wants to predict if a user is happy or unhappy, based on the answers they provide for a survey. For this, the company has given us a subset of their previous survey data. It consists of 7 columns and 126 rows. Based on this we need to build a prediction model.
 

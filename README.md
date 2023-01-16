@@ -18,4 +18,4 @@ Of these, X1 to X6 are feature attributes. These are 6 different questions the c
 Our project starts with EDA where we check for null value and data imbalance. We then plot the relation of each feature with the label. Once we understand the data, we move to feature selection. Here we perform correlation and EFS (Exhaustive Feature Selection) to select the best possible set of features for building our model. After that, we build SVM, Logistic regression, Random Forest, and XGBoost classifiers.
 
 ## Conclusion
-Based on a comparison of these classifiers, we conclude that Random Forest is the best performing model with an accuracy of 0.8095 and an F1 score of 0.8260.
+Based on a comparison of these classifiers, we conclude that XGBoost is the best performing model with an accuracy of 0.7619 and an F1 score of 0.7619.
